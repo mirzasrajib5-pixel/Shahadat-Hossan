@@ -1,0 +1,6 @@
+{
+  "name": "K-Kids: ছোটদের কোরিয়ান পাঠশালা",
+  "description": "৫ বছরের শিশুদের জন্য সম্পূর্ণ, নির্ভরযোগ্য ও আকর্ষণীয় কোরিয়ান ভাষা শিক্ষা একাডেমি — বর্ণমালা, শব্দভাণ্ডার, বাক্য গঠন, বাস্তব কথোপকথন, পিকচার স্টোরি, সংস্কৃতি ও সনদপত্র।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
